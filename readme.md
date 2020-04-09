@@ -1,5 +1,5 @@
 # Film Ay
-Film Ay, Nesne Tabanlı Programlama dersi için yaptığım uygulamadır. Bu uygulama netflix kırması masaüstü uygulamadır. C# ile yazılmıştır. Veritabanı olarak access kullanmaktadır.
+Film Ay, Nesne Tabanlı Programlama dersi için yaptığım uygulamadır. Bu uygulama netflix tarzı bir masaüstü uygulamadır. C# ile yazılmıştır. Veritabanı olarak access kullanmaktadır.
 
 ### Ekran Görüntüleri 
 
